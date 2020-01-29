@@ -212,6 +212,7 @@ function display_highscore_entry(){
     //display form for adding a highscore
     highScoreForm.appendChild(highScoreLabel);
     highScoreForm.appendChild(highScoreTextEntry);
+    highScoreTextEntry.value = ""; //prevent previously entered value from lingering on repeat plays
     highScoreForm.appendChild(highScoreSubmitBtn);
 }
 
