@@ -12,4 +12,4 @@ There is a time limit to complete it, and once the user finishes the quiz, they 
 
 Notes:
 - the high score board is supposed to be sorted whenever it is displayed, but it doesn't seem to sort correctly when a score entry is 0.
-- there is not limit to the amount of scores that can be entered into the high score board
+- there is no limit to the amount of scores that can be entered into the high score board
