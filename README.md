@@ -10,6 +10,9 @@ There is a time limit to complete it, and once the user finishes the quiz, they 
 
 - the user may view the High Score board at any time by clicking the "View Highscores" button. However, doing this during a quiz session will cancel that session.
 
-Notes:
+# Notes:
 - the high score board is supposed to be sorted whenever it is displayed, but it doesn't seem to sort correctly when a score entry is 0.
 - there is no limit to the amount of scores that can be entered into the high score board
+
+# deployed version:
+https://rfilkin.github.io/04-codequiz/
